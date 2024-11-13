@@ -1,0 +1,21 @@
+/* public/style.css */
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+#pdf-viewer {
+  text-align: center;
+}
+
+#pdf-canvas {
+  border: 1px solid black;
+}
+
+#controls {
+  margin-top: 10px;
+}
